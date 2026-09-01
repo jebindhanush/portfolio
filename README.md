@@ -17,6 +17,7 @@ and ready for GitHub Pages.
 
 Requirements: Node.js 22 or later and npm.
 
+
 ```bash
 npm install
 npm run dev
