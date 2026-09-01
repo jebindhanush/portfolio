@@ -105,3 +105,21 @@ https://YOUR_GITHUB_USERNAME.github.io/my-portfolio/
 Reusable request templates are available in `PROMPT_GUIDE.md`. They tell an AI
 assistant to update the central data file, preserve existing design behavior,
 avoid invented information, and run the appropriate checks.
+
+## 🚀 Future Plans
+
+### Version 2.0 — Coming Soon
+
+The next version of my portfolio will focus on creating a more immersive and interactive experience.
+
+Planned improvements:
+
+* 🎬 More motion graphics and animations
+* ✨ Advanced page transitions
+* 🎨 Improved visual effects and interactions
+* 🖱️ Interactive UI elements
+* 📱 Enhanced mobile experience
+* ⚡ Performance optimizations
+* 🎥 More creative project presentations
+
+Version 1 focuses on a clean and professional portfolio experience. Version 2 will explore more creative motion, storytelling, and interactive design.
