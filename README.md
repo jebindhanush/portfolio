@@ -94,10 +94,10 @@ Before deploying:
 The workflow installs dependencies, runs ESLint, checks TypeScript, builds the
 static export, uploads `out/`, and deploys it through GitHub Pages.
 
-For a repository named `my-portfolio`, the expected URL is:
+For a repository named `portfolio`, the expected URL is:
 
 ```text
-https://YOUR_GITHUB_USERNAME.github.io/my-portfolio/
+https://jebindhanush.github.io/portfolio
 ```
 
 ## AI-assisted updates
