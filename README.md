@@ -58,8 +58,8 @@ On macOS or Linux, use `cp .env.example .env.local`.
 Replace:
 
 ```env
-NEXT_PUBLIC_REPOSITORY_NAME=YOUR_REPOSITORY_NAME
-NEXT_PUBLIC_SITE_URL=https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME
+NEXT_PUBLIC_REPOSITORY_NAME=portfolio
+NEXT_PUBLIC_SITE_URL=https://jebindhanush.github.io/portfolio
 ```
 
 Do not add a trailing slash to `NEXT_PUBLIC_SITE_URL`.

@@ -2,8 +2,8 @@ name: Deploy portfolio to GitHub Pages
 
 # Replace these values if the repository owner or name changes.
 env:
-  NEXT_PUBLIC_REPOSITORY_NAME: jebin-portfolio
-  NEXT_PUBLIC_SITE_URL: https://jebindhanush.github.io/jebin-portfolio
+  NEXT_PUBLIC_REPOSITORY_NAME: portfolio
+  NEXT_PUBLIC_SITE_URL: https://jebindhanush.github.io/portfolio
 
 on:
   push:
